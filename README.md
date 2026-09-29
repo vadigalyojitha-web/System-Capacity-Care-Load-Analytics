@@ -1,6 +1,6 @@
-# 🏥 System Capacity & Care Load Analytics
+#  System Capacity & Care Load Analytics
 
-## 📌 Project Overview
+##  Project Overview
 
 System Capacity & Care Load Analytics is a data analytics dashboard designed to analyze the care pipeline of Unaccompanied Children (UAC), from CBP custody to HHS care.
 
@@ -8,7 +8,7 @@ The project uses historical data to understand system load, transfers, discharge
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main objective of this project is to:
 
@@ -23,7 +23,7 @@ The main objective of this project is to:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -34,12 +34,12 @@ The main objective of this project is to:
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
-### 🔎 Interactive Filters
+###  Interactive Filters
 Users can select a specific date range to analyze a particular period.
 
-### 📌 Key Performance Indicators
+###  Key Performance Indicators
 
 The dashboard displays:
 
@@ -52,7 +52,7 @@ The dashboard displays:
 - Net Care Load Change
 - Discharge Offset Ratio
 
-### 📈 Visualizations
+###  Visualizations
 
 The dashboard includes:
 
@@ -61,7 +61,7 @@ The dashboard includes:
 - CBP Custody vs HHS Care
 - Backlog Analysis
 
-### 💡 Automated Insights
+###  Automated Insights
 
 The dashboard automatically identifies:
 
@@ -70,13 +70,13 @@ The dashboard automatically identifies:
 - Transfer and discharge patterns
 - Capacity variation
 
-### 📥 Data Download
+###  Data Download
 
 Users can download the currently filtered records as a CSV file.
 
 ---
 
-## 🔄 Data Pipeline
+##  Data Pipeline
 
 ```text
 Raw Dataset
